@@ -17,9 +17,54 @@ layout: page
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
-          {% if profile.more_info %}
-            <div class="more-info">{{ profile.more_info }}</div>
-          {% endif %}
+          
+          <div class="row ml-1 mr-1 p-0 d-flex mt-2 justify-content-center">
+            
+            {% if profile.github %}
+              <div class="github-icon mr-3">
+                <div class="icon" data-toggle="tooltip" title="GitHub">
+                  <a href="{{ profile.github }}" target="_blank" style="color: inherit;"><i class="fa-brands fa-github gh-icon fa-xl"></i></a>
+                </div>
+              </div>
+            {% endif %}
+
+            {% if profile.linkedin %}
+              <div class="linkedin-icon mr-3">
+                <div class="icon" data-toggle="tooltip" title="LinkedIn">
+                  <a href="{{ profile.linkedin }}" target="_blank" style="color: inherit;"><i class="fa-brands fa-linkedin fa-xl"></i></a>
+                </div>
+              </div>
+            {% endif %}
+
+            {% if profile.google_scholar %}
+              <div class="scholar-icon mr-3">
+                <div class="icon" data-toggle="tooltip" title="Google Scholar">
+                  <a href="{{ profile.google_scholar }}" target="_blank" style="color: inherit;"><i class="fa-solid fa-graduation-cap fa-xl"></i></a>
+                </div>
+              </div>
+            {% endif %}
+
+            {% if profile.twitter %}
+              <div class="twitter-icon mr-3">
+                <div class="icon" data-toggle="tooltip" title="Twitter / X">
+                  <a href="{{ profile.twitter }}" target="_blank" style="color: inherit;"><i class="fa-brands fa-x-twitter fa-xl"></i></a>
+                </div>
+              </div>
+            {% endif %}
+
+            {% if profile.cv %}
+              <div class="cv-icon mr-3">
+                <div class="icon" data-toggle="tooltip" title="Download CV">
+                  {% if profile.cv contains '://' %}
+                    <a href="{{ profile.cv }}" target="_blank" style="color: inherit;"><i class="fa-solid fa-file-pdf fa-xl"></i></a>
+                  {% else %}
+                    <a href="{{ profile.cv | relative_url }}" target="_blank" style="color: inherit;"><i class="fa-solid fa-file-pdf fa-xl"></i></a>
+                  {% endif %}
+                </div>
+              </div>
+            {% endif %}
+
+          </div>
         </div>
 
         <div class="clearfix">

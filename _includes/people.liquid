@@ -1,6 +1,7 @@
 <div class="col">
-  <a href="{% if people.redirect %}{{ people.redirect }}{% else %}{{ people.url | relative_url }}{% endif %}">
-    <div class="card h-100 shadow-none border-0 bg-transparent"> {% comment %} remove the weird dropshadow {% endcomment %}
+  <div class="card h-100 shadow-none border-0 bg-transparent"> {% comment %} remove the weird dropshadow {% endcomment %}
+    
+    <a href="{% if people.redirect %}{{ people.redirect }}{% else %}{{ people.url | relative_url }}{% endif %}">
       {% if people.img %}
         {%
           include figure.liquid
@@ -11,25 +12,61 @@
           class="card-img-top"
         %}
       {% endif %}
-      <div class="card-body px-0 pt-0 pb-0">
-        <h4 class="card-title mt-0 mb-1">{{ people.title }}</h4>
-        <p class="card-text">{{ people.description }}</p>
-        <div class="row ml-1 mr-1 p-0">
-          {% if people.github %}
-            <div class="github-icon">
-              <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ people.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
-              </div>
-              {% if people.github_stars %}
-                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-                  <i class="fa-solid fa-star"></i>
-                  <span id="{{ people.github_stars }}-stars"></span>
-                </span>
+    </a>
+
+    <div class="card-body px-0 pt-0 pb-0">
+      <a href="{% if people.redirect %}{{ people.redirect }}{% else %}{{ people.url | relative_url }}{% endif %}" style="text-decoration: none; color: inherit;">
+        <h4 class="card-title mt-2 mb-1">{{ people.title }}</h4>
+      </a>
+      <p class="card-text">{{ people.description }}</p>
+      
+      <div class="row ml-1 mr-1 p-0 d-flex mt-1">
+        
+        {% if people.github %}
+          <div class="github-icon mr-3">
+            <div class="icon" data-toggle="tooltip" title="GitHub">
+              <a href="{{ people.github }}" target="_blank" style="color: inherit;"><i class="fa-brands fa-github gh-icon"></i></a>
+            </div>
+          </div>
+        {% endif %}
+
+        {% if people.linkedin %}
+          <div class="linkedin-icon mr-3">
+            <div class="icon" data-toggle="tooltip" title="LinkedIn">
+              <a href="{{ people.linkedin }}" target="_blank" style="color: inherit;"><i class="fa-brands fa-linkedin"></i></a>
+            </div>
+          </div>
+        {% endif %}
+
+        {% if people.google_scholar %}
+          <div class="scholar-icon mr-3">
+            <div class="icon" data-toggle="tooltip" title="Google Scholar">
+              <a href="{{ people.google_scholar }}" target="_blank" style="color: inherit;"><i class="fa-solid fa-graduation-cap"></i></a>
+            </div>
+          </div>
+        {% endif %}
+
+        {% if people.twitter %}
+          <div class="twitter-icon mr-3">
+            <div class="icon" data-toggle="tooltip" title="Twitter / X">
+              <a href="{{ people.twitter }}" target="_blank" style="color: inherit;"><i class="fa-brands fa-x-twitter"></i></a>
+            </div>
+          </div>
+        {% endif %}
+
+        {% if people.cv %}
+          <div class="cv-icon mr-3">
+            <div class="icon" data-toggle="tooltip" title="Download CV">
+              {% if people.cv contains '://' %}
+                <a href="{{ people.cv }}" target="_blank" style="color: inherit;"><i class="fa-solid fa-file-pdf"></i></a>
+              {% else %}
+                <a href="{{ people.cv | relative_url }}" target="_blank" style="color: inherit;"><i class="fa-solid fa-file-pdf"></i></a>
               {% endif %}
             </div>
-          {% endif %}
-        </div>
+          </div>
+        {% endif %}
+
       </div>
     </div>
-  </a>
+  </div>
 </div>
