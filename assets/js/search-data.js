@@ -449,9 +449,9 @@ ninja.data = [{
           description: "PhD student in Aerospace Engineering",
           section: "People",handler: () => {
               window.location.href = "/al-folio/people/debajyoti_chakrabarti/";
-            },},{id: "people-qizhao-chen",
-          title: 'Qizhao Chen',
-          description: "PhD student in Mechanical Engineering",
+            },},{id: "people-ucla",
+          title: 'UCLA',
+          description: "UCLA",
           section: "People",handler: () => {
               window.location.href = "/al-folio/people/qizhao_chen/";
             },},{id: "teachings-data-science-fundamentals",
