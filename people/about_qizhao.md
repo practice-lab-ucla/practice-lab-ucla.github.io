@@ -1,8 +1,13 @@
-<!-- 
-My research focuses on developing new theoretical foundations for stochastic motion planning to account for diverse and varying uncertainty descriptions while retaining the tractability of the state-of-the-art approaches. The theory has practical and scalable implementation and has been deployed not just in controlled laboratory settings but also in complex, real-world environments. -->
+I am a second-year Ph.D. student in the Mechanical and Aerospace Engineering (<strong>MAE</strong>) department at the University of California, Los Angeles (<strong>UCLA</strong>).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<a href="https://sites.google.com/g.ucla.edu/qizhao/home" target="_blank">Personal Website</a>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a graduate researcher at UCLA PRACTICE Lab, supervised by professor Anushri Dixit. My research focuses on integrating foundation models with conformal prediction to provide statistical assurance in embodied navigation. By combining high-level reasoning from foundation models with calibrated uncertainty estimates, I aim to enable robot agents that can explore complex unseen environments safely and adaptively.
+My primary research interests lie in robotics, with a focus on safe and reliable decision-making with AI. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p><strong>Current Education:</strong><br>
+Ph.D. in Mechanical Engineering, University of California, Los Angeles</p>
+
+<p><strong>Past Education:</strong><br>
+M.S. in Mechanical Engineering, Carnegie Mellon University<br>
+B.S. in Mechanical Engineering, University of California, Irvine</p>
