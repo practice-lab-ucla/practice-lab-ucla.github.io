@@ -1,0 +1,1 @@
+Jacob Pham is a third-year undergraduate double majoring in Mechanical Engineering and Applied Mathematics. His current work focuses on iterative conformal prediction for safe multi-agent trajectory rollouts and collision avoidance. His broader research interests include mathematical and AI-driven approaches to robotics education.
