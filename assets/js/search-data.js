@@ -439,6 +439,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "People",handler: () => {
               window.location.href = "/al-folio/people/9_project/";
+            },},{id: "people-jacob-pham",
+          title: 'Jacob Pham',
+          description: "Undergraduate student in Mechanical Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/al-folio/people/Jacob_Pham/";
+            },},{id: "people-sanjit-sarda",
+          title: 'Sanjit Sarda',
+          description: "Undergraduate student in Electrical and Computer Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/al-folio/people/Sanjit_Sarda/";
             },},{id: "people-anushri-dixit",
           title: 'Anushri Dixit',
           description: "Assistant Professor in MAE Department",
