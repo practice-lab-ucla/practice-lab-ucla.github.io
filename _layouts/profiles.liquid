@@ -64,6 +64,14 @@ layout: page
               </div>
             {% endif %}
 
+            {% if profile.website %}
+              <div class="website-icon mr-3">
+                <div class="icon" data-toggle="tooltip" title="Personal Website">
+                  <a href="{{ profile.website }}" target="_blank" style="color: inherit;"><i class="fa-solid fa-globe fa-xl"></i></a>
+                </div>
+              </div>
+            {% endif %}
+
           </div>
         </div>
 

@@ -24,7 +24,7 @@ profiles:
 linkedin: https://www.linkedin.com/in/qizhao-chen-8647b624b
 google_scholar: https://scholar.google.com/citations?user=lIrvSaUAAAAJ&hl=en
 github: https://github.com/thecqzz
-cv: /assets/pdf/Qizhao Chen CV.pdf
+cv: /assets/pdf/Qizhao_Chen_CV.pdf
 
 related_publications: true
 ---

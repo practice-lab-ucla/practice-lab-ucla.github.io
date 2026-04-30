@@ -38,6 +38,14 @@
           </div>
         {% endif %}
 
+        {% if people.website %}
+          <div class="website-icon mr-3">
+            <div class="icon" data-toggle="tooltip" title="Personal Website">
+              <a href="{{ people.website }}" target="_blank" style="color: inherit;"><i class="fa-solid fa-globe"></i></a>
+            </div>
+          </div>
+        {% endif %}
+
         {% if people.google_scholar %}
           <div class="scholar-icon mr-3">
             <div class="icon" data-toggle="tooltip" title="Google Scholar">
