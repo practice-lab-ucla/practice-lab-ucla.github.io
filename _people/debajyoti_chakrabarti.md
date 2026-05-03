@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 title: Debajyoti Chakrabarti
 description: PhD student in Aerospace Engineering
 img: assets/img/people/deb.jpeg
@@ -13,8 +13,6 @@ profiles:
     image: people/deb.jpeg
     content: about_debajyoti.md
     image_circular: false # crops the image to make it circular
-    # <!-- more_info: >
-    #   <p>qizhaoc AT ucla DOT edu</p> -->
     
     # these are the icon links displayed in personal profile
     linkedin: https://www.linkedin.com/in/debajyoti-chakrabarti/
@@ -30,4 +28,5 @@ cv: /assets/pdf/Debajyoti_Resume.pdf
 
 related_publications: true
 ---
+
 
