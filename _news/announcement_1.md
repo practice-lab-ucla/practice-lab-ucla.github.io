@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-04 00:00:00-0700
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[Qizhao Chen]({% link _people/qizhao_chen.md %}) will join [FieldAI](https://www.fieldai.com/) as a summer intern for Summer 2026.
