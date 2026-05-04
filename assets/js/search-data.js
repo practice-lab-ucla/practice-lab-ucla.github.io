@@ -398,16 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-congratulations-to-qizhao-chen-and-debajyoti-chakrabarti-on-passing-the-ph-d-preliminary-exam",
+          title: 'Congratulations to Qizhao Chen and Debajyoti Chakrabarti on passing the Ph.D. preliminary exam....',
+          description: "",
+          section: "News",},{id: "news-qizhao-chen-will-join-fieldai-as-a-summer-intern-for-summer-2026",
+          title: 'Qizhao Chen will join FieldAI as a summer intern for Summer 2026.',
           description: "",
           section: "News",},{id: "people-project-4",
           title: 'project 4',
