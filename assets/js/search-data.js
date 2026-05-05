@@ -398,46 +398,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-congratulations-to-qizhao-chen-and-debajyoti-chakrabarti-on-passing-the-ph-d-preliminary-exam",
+            },},{id: "news-congratulations-to-qizhao-chen-and-debajyoti-chakrabarti-on-passing-the-ph-d-preliminary-exam",
           title: 'Congratulations to Qizhao Chen and Debajyoti Chakrabarti on passing the Ph.D. preliminary exam....',
+          description: "",
+          section: "News",},{id: "news-allen-s-new-work-on-iterative-conformal-prediction-is-available-on-arxiv",
+          title: 'Allen’s new work on iterative conformal prediction is available on Arxiv!',
+          description: "",
+          section: "News",},{id: "news-yuanhong-s-new-paper-on-risk-aware-rl-got-accepted-by-icra-2026-see-you-in-vienna",
+          title: 'Yuanhong’s new paper on risk aware RL got accepted by ICRA 2026 see...',
           description: "",
           section: "News",},{id: "news-qizhao-chen-will-join-fieldai-as-a-summer-intern-for-summer-2026",
           title: 'Qizhao Chen will join FieldAI as a summer intern for Summer 2026.',
           description: "",
-          section: "News",},{id: "people-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "People",handler: () => {
-              window.location.href = "/al-folio/people/4_project/";
-            },},{id: "people-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "People",handler: () => {
-              window.location.href = "/al-folio/people/5_project/";
-            },},{id: "people-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "People",handler: () => {
-              window.location.href = "/al-folio/people/6_project/";
-            },},{id: "people-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "People",handler: () => {
-              window.location.href = "/al-folio/people/7_project/";
-            },},{id: "people-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "People",handler: () => {
-              window.location.href = "/al-folio/people/8_project/";
-            },},{id: "people-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "People",handler: () => {
-              window.location.href = "/al-folio/people/9_project/";
-            },},{id: "people-jacob-pham",
+          section: "News",},{id: "people-jacob-pham",
           title: 'Jacob Pham',
           description: "Undergraduate student in Mechanical Engineering",
           section: "People",handler: () => {
@@ -447,6 +420,11 @@ ninja.data = [{
           description: "Undergraduate student in Electrical and Computer Engineering",
           section: "People",handler: () => {
               window.location.href = "/al-folio/people/Sanjit_Sarda/";
+            },},{id: "people-allen-emmanuel-binney",
+          title: 'Allen Emmanuel Binney',
+          description: "Lab intern (summer 2025)",
+          section: "People",handler: () => {
+              window.location.href = "/al-folio/people/allen_emmanuel_binny/";
             },},{id: "people-anushri-dixit",
           title: 'Anushri Dixit',
           description: "Assistant Professor in MAE Department",
@@ -457,11 +435,26 @@ ninja.data = [{
           description: "PhD student in Aerospace Engineering",
           section: "People",handler: () => {
               window.location.href = "/al-folio/people/debajyoti_chakrabarti/";
+            },},{id: "people-mentorpi",
+          title: 'MentorPi',
+          description: "Navigation Robot",
+          section: "People",handler: () => {
+              window.location.href = "/al-folio/people/mentorpi/";
             },},{id: "people-qizhao-chen",
           title: 'Qizhao Chen',
           description: "PhD student in Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/al-folio/people/qizhao_chen/";
+            },},{id: "people-go2",
+          title: 'Go2',
+          description: "Robot Dog",
+          section: "People",handler: () => {
+              window.location.href = "/al-folio/people/unitree_go2/";
+            },},{id: "people-yuanhong-zeng",
+          title: 'Yuanhong Zeng',
+          description: "MS ECE student (2024-2025) and lab technician (2026)",
+          section: "People",handler: () => {
+              window.location.href = "/al-folio/people/yuanhong_zeng/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
