@@ -27,5 +27,6 @@ google_scholar: https://scholar.google.com/citations?user=ADThnCAAAAAJ&hl=en
 twitter: https://x.com/anushridixit111
 cv: /assets/pdf/Anushri_Dixit_CV.pdf
 
-related_publications: true
+related_publications: false
+scholar_name: Dixit
 ---

@@ -26,7 +26,7 @@ google_scholar: https://scholar.google.com/citations?user=LdqQbbIAAAAJ&hl=en
 github: https://github.com/debajyotichakrabarti
 cv: /assets/pdf/Debajyoti_Resume.pdf
 
-related_publications: true
+related_publications: false
 ---
 
 

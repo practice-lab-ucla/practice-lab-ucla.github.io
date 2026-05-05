@@ -86,4 +86,11 @@ layout: page
       {% endfor %}
     {% endif %}
   </article>
+
+  {% if page.scholar_name %}
+    <div class="publications">
+      <h2>Publications</h2>
+      {% bibliography --query @*[author~={{ page.scholar_name }}] %}
+    </div>
+  {% endif %}
 </div>
