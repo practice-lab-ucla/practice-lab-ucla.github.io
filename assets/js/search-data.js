@@ -415,11 +415,21 @@ ninja.data = [{
           description: "Undergraduate student in Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/al-folio/people/Jacob_Pham/";
+            },},{id: "people-lucas-schweighofer",
+          title: 'Lucas Schweighofer',
+          description: "Undergraduate student in Mechanical Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/al-folio/people/Lucas_Schweighofer/";
             },},{id: "people-sanjit-sarda",
           title: 'Sanjit Sarda',
           description: "Undergraduate student in Electrical and Computer Engineering",
           section: "People",handler: () => {
               window.location.href = "/al-folio/people/Sanjit_Sarda/";
+            },},{id: "people-shoh-nishino",
+          title: 'Shoh Nishino',
+          description: "Undergraduate student in Mechanical Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/al-folio/people/Shoh_Nishino/";
             },},{id: "people-allen-emmanuel-binney",
           title: 'Allen Emmanuel Binney',
           description: "Lab intern (summer 2025)",
