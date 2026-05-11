@@ -19,12 +19,14 @@ profiles:
     google_scholar: https://scholar.google.com/citations?user=lIrvSaUAAAAJ&hl=en
     github: https://github.com/thecqzz
     cv: /assets/pdf/Qizhao_Chen_CV.pdf
+    website: https://sites.google.com/g.ucla.edu/qizhao/home
 
 # these are the icon displayed in personal page
 linkedin: https://www.linkedin.com/in/qizhao-chen-8647b624b
 google_scholar: https://scholar.google.com/citations?user=lIrvSaUAAAAJ&hl=en
 github: https://github.com/thecqzz
 cv: /assets/pdf/Qizhao_Chen_CV.pdf
+website: https://sites.google.com/g.ucla.edu/qizhao/home
 
 related_publications: false
 ---

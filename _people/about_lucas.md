@@ -1,0 +1,1 @@
+Lucas is a 3rd year currently pursuing a mechanical engineering degree with a data science engineering minor.
