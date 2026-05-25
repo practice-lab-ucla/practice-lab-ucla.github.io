@@ -7,28 +7,28 @@ ninja.data = [{
     title: "home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-people",
           title: "people",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/people/";
+            window.location.href = "/people/";
           },
         },{id: "nav-contact",
           title: "contact",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/contact/";
+            window.location.href = "/contact/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2025/plotly/";
+            window.location.href = "/blog/2025/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -49,7 +49,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/photo-gallery/";
+            window.location.href = "/blog/2024/photo-gallery/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -71,7 +71,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/tabs/";
+            window.location.href = "/blog/2024/tabs/";
           
         },
       },{id: "post-a-post-with-typograms",
@@ -82,7 +82,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/typograms/";
+            window.location.href = "/blog/2024/typograms/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
@@ -93,7 +93,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/post-citation/";
+            window.location.href = "/blog/2024/post-citation/";
           
         },
       },{id: "post-a-post-with-pseudo-code",
@@ -104,7 +104,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/pseudocode/";
+            window.location.href = "/blog/2024/pseudocode/";
           
         },
       },{id: "post-a-post-with-code-diff",
@@ -115,7 +115,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/code-diff/";
+            window.location.href = "/blog/2024/code-diff/";
           
         },
       },{id: "post-a-post-with-advanced-image-components",
@@ -126,7 +126,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/advanced-images/";
+            window.location.href = "/blog/2024/advanced-images/";
           
         },
       },{id: "post-a-post-with-vega-lite",
@@ -137,7 +137,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/vega-lite/";
+            window.location.href = "/blog/2024/vega-lite/";
           
         },
       },{id: "post-a-post-with-geojson",
@@ -148,7 +148,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/geojson-map/";
+            window.location.href = "/blog/2024/geojson-map/";
           
         },
       },{id: "post-a-post-with-echarts",
@@ -159,7 +159,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/echarts/";
+            window.location.href = "/blog/2024/echarts/";
           
         },
       },{id: "post-a-post-with-chart-js",
@@ -170,7 +170,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2024/chartjs/";
+            window.location.href = "/blog/2024/chartjs/";
           
         },
       },{id: "post-a-post-with-tikzjax",
@@ -181,7 +181,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/tikzjax/";
+            window.location.href = "/blog/2023/tikzjax/";
           
         },
       },{id: "post-a-post-with-bibliography",
@@ -192,7 +192,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/post-bibliography/";
+            window.location.href = "/blog/2023/post-bibliography/";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
@@ -203,7 +203,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/jupyter-notebook/";
+            window.location.href = "/blog/2023/jupyter-notebook/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -214,7 +214,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/custom-blockquotes/";
+            window.location.href = "/blog/2023/custom-blockquotes/";
           
         },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -225,7 +225,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/blog/2023/sidebar-table-of-contents/";
           
         },
       },{id: "post-a-post-with-audios",
@@ -236,7 +236,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/audios/";
+            window.location.href = "/blog/2023/audios/";
           
         },
       },{id: "post-a-post-with-videos",
@@ -247,7 +247,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/videos/";
+            window.location.href = "/blog/2023/videos/";
           
         },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -258,7 +258,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/tables/";
+            window.location.href = "/blog/2023/tables/";
           
         },
       },{id: "post-a-post-with-table-of-contents",
@@ -269,7 +269,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/table-of-contents/";
+            window.location.href = "/blog/2023/table-of-contents/";
           
         },
       },{id: "post-a-post-with-giscus-comments",
@@ -280,7 +280,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2022/giscus-comments/";
+            window.location.href = "/blog/2022/giscus-comments/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -302,7 +302,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/assets/pdf/example_pdf.pdf";
+            window.location.href = "/assets/pdf/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -313,7 +313,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2021/diagrams/";
+            window.location.href = "/blog/2021/diagrams/";
           
         },
       },{id: "post-a-distill-style-blog-post",
@@ -324,7 +324,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2021/distill/";
+            window.location.href = "/blog/2021/distill/";
           
         },
       },{id: "post-a-post-with-twitter",
@@ -335,7 +335,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2020/twitter/";
+            window.location.href = "/blog/2020/twitter/";
           
         },
       },{id: "post-a-post-with-disqus-comments",
@@ -346,7 +346,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2015/disqus-comments/";
+            window.location.href = "/blog/2015/disqus-comments/";
           
         },
       },{id: "post-a-post-with-math",
@@ -357,7 +357,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2015/math/";
+            window.location.href = "/blog/2015/math/";
           
         },
       },{id: "post-a-post-with-code",
@@ -368,7 +368,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2015/code/";
+            window.location.href = "/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-images",
@@ -379,7 +379,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2015/images/";
+            window.location.href = "/blog/2015/images/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
@@ -390,14 +390,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2015/formatting-and-links/";
+            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/al-folio/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-congratulations-to-qizhao-chen-and-debajyoti-chakrabarti-on-passing-the-ph-d-preliminary-exam",
           title: 'Congratulations to Qizhao Chen and Debajyoti Chakrabarti on passing the Ph.D. preliminary exam....',
           description: "",
@@ -414,73 +414,73 @@ ninja.data = [{
           title: 'Jacob Pham',
           description: "Undergraduate student in Mechanical Engineering",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/Jacob_Pham/";
+              window.location.href = "/people/Jacob_Pham/";
             },},{id: "people-lucas-schweighofer",
           title: 'Lucas Schweighofer',
           description: "Undergraduate student in Mechanical Engineering",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/Lucas_Schweighofer/";
+              window.location.href = "/people/Lucas_Schweighofer/";
             },},{id: "people-sanjit-sarda",
           title: 'Sanjit Sarda',
           description: "Undergraduate student in Electrical and Computer Engineering",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/Sanjit_Sarda/";
+              window.location.href = "/people/Sanjit_Sarda/";
             },},{id: "people-shoh-nishino",
           title: 'Shoh Nishino',
           description: "Undergraduate student in Mechanical Engineering",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/Shoh_Nishino/";
+              window.location.href = "/people/Shoh_Nishino/";
             },},{id: "people-allen-emmanuel-binney",
           title: 'Allen Emmanuel Binney',
           description: "Lab intern (summer 2025)",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/allen_emmanuel_binny/";
+              window.location.href = "/people/allen_emmanuel_binny/";
             },},{id: "people-anushri-dixit",
           title: 'Anushri Dixit',
           description: "Assistant Professor in MAE Department",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/anushri_dixit/";
+              window.location.href = "/people/anushri_dixit/";
             },},{id: "people-debajyoti-chakrabarti",
           title: 'Debajyoti Chakrabarti',
           description: "PhD student in Aerospace Engineering",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/debajyoti_chakrabarti/";
+              window.location.href = "/people/debajyoti_chakrabarti/";
             },},{id: "people-mentorpi",
           title: 'MentorPi',
           description: "Navigation Robot",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/mentorpi/";
+              window.location.href = "/people/mentorpi/";
             },},{id: "people-qizhao-chen",
           title: 'Qizhao Chen',
           description: "PhD student in Mechanical Engineering",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/qizhao_chen/";
+              window.location.href = "/people/qizhao_chen/";
             },},{id: "people-go2",
           title: 'Go2',
           description: "Robot Dog",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/unitree_go2/";
+              window.location.href = "/people/unitree_go2/";
             },},{id: "people-yuanhong-zeng",
           title: 'Yuanhong Zeng',
           description: "MS ECE student (2024-2025) and lab technician (2026)",
           section: "People",handler: () => {
-              window.location.href = "/al-folio/people/yuanhong_zeng/";
+              window.location.href = "/people/yuanhong_zeng/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/al-folio/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/al-folio/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/al-folio/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/example_pdf.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -501,7 +501,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/al-folio/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
