@@ -1,7 +1,7 @@
 ---
 layout: course
 permalink: /contact/
-title: contact
+title: Contact
 nav: true
 nav_order: 7
 ---
@@ -12,10 +12,10 @@ We appreciate your interest! Due to high volume of emails, we may not respond to
 - **office**: 3731E, Boelter Hall
 - **lab location**: 1538, Boelter Hall
 
-## prospective PhD students
+## Prospective PhD students
 
 I am actively hiring talented PhD students. If you are interested in joining the group, please apply to the [UCLA Mechanical & Aerospace Engineering PhD program](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/) and indicate your interest in working with me in the application. I am looking for students who are passionate about robotics and control, especially in extreme and uncertain environments.
 
-## prospective master and undergraduate students
+## Prospective master and undergraduate students
 
 If you are an existing UCLA undergrad or masters student interested in working with me, please send me an email with a copy of your CV and a brief description of your research interests.

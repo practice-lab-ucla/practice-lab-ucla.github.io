@@ -4,7 +4,7 @@ title: Qizhao Chen
 description: PhD student in Mechanical Engineering
 img: assets/img/people/qizhaoc.jpg
 importance: 1
-category: graduate student
+category: Graduate student
 
 profiles:
   - align: right

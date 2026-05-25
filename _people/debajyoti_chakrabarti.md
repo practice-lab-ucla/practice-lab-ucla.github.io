@@ -4,7 +4,7 @@ title: Debajyoti Chakrabarti
 description: PhD student in Aerospace Engineering
 img: assets/img/people/deb.jpeg
 importance: 2
-category: graduate student
+category: Graduate student
 # giscus_comments: true
 
 

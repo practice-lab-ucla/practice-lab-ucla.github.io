@@ -1,11 +1,11 @@
 ---
 layout: page
-title: people
+title: People
 permalink: /people/
 # description: A growing collection of your cool people.
 nav: true
 nav_order: 3
-display_categories: [professor, graduate student, undergraduate student, robot, alumni]
+display_categories: [Professor, Graduate student, Undergraduate student, Robot, Alumni]
 horizontal: false
 ---
 

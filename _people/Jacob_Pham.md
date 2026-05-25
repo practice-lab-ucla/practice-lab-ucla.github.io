@@ -4,7 +4,7 @@ title: Jacob Pham
 description: Undergraduate student in Mechanical Engineering
 img: assets/img/people/jacob.png
 importance: 1
-category: undergraduate student
+category: Undergraduate student
 
 profiles:
   - align: right

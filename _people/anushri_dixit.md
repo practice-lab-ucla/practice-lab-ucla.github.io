@@ -4,7 +4,7 @@ title: Anushri Dixit
 description: Assistant Professor in MAE Department
 img: assets/img/people/anushri.png
 importance: 1
-category: professor
+category: Professor
 
 profiles:
   - align: right
