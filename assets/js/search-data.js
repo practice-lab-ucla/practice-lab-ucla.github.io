@@ -430,6 +430,11 @@ ninja.data = [{
           description: "Undergraduate student in Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/Shoh_Nishino/";
+            },},{id: "people-abigail-brooks",
+          title: 'Abigail Brooks',
+          description: "Undergraduate student in Mechanical Engineering",
+          section: "People",handler: () => {
+              window.location.href = "/people/abby_brooks/";
             },},{id: "people-allen-emmanuel-binney",
           title: 'Allen Emmanuel Binney',
           description: "Lab intern (summer 2025)",
