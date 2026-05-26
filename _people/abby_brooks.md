@@ -1,25 +1,23 @@
 ---
 layout: profiles
-title: Lucas Schweighofer
+title: Abigail Brooks
 description: Undergraduate student in Mechanical Engineering
-img: assets/img/people/Lucas_Schweighofer.jpg
+img: assets/img/people/abby_brooks.jpg
 importance: 4
 category: Undergraduate student
 
 profiles:
   - align: right
-    image: people/Lucas_Schweighofer.jpg
-    content: about_lucas.md
+    image: people/abby_brooks.jpg
+    content: about_abby.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>lucas29 AT ucla DOT edu</p>
     
     # these are the icon links displayed in personal profile
-    linkedin: https://www.linkedin.com/in/lucas-schweighofer
+    linkedin: https://www.linkedin.com/in/abigailkbrooks
 
 
 # these are the icon displayed in personal page
-linkedin: https://www.linkedin.com/in/lucas-schweighofer
+linkedin: https://www.linkedin.com/in/abigailkbrooks
 
 
 related_publications: false

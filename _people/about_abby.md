@@ -1,0 +1,1 @@
+Abby is a senior in mechanical engineering. She will be a master's student in mechanical engineering at UCLA.

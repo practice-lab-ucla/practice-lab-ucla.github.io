@@ -9,7 +9,7 @@ title: blank # the website title (if blank, full name will be used instead)
 contact_note: > # the ">" symbol means to ignore newlines until "contact_note:"
   Research Lab at UCLA
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Practice Lab at UCLA MAE department lead by Prof Anushri Dixit.
+  PRACTICE Lab at UCLA MAE department led by Prof Anushri Dixit.
 footer_text: >
 keywords: robotics, safety, control, research lab # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
