@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "CPNAV"
+title: "CPNAV: Calibrated Vision-Language Navigation for Object-Goal Search in Unseen Environments"
 permalink: /papers/cpnav/
 nav: false
 ---
-
-# CPNAV: Calibrated Vision-Language Navigation for Object-Goal Search in Unseen Environments
 
 **[Qizhao Chen]({{ '/people/qizhao_chen/' | relative_url }})**, **[Yuanhong Zeng](https://danny-zyh.github.io/)**, **[Shoh Nishino]({{ '/people/Shoh_Nishino/' | relative_url }})**, and **[Anushri Dixit]({{ '/people/anushri_dixit/' | relative_url }})**
 
