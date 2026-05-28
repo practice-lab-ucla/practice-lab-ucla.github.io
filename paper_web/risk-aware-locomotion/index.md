@@ -5,7 +5,7 @@ permalink: /papers/risk-aware-locomotion/
 nav: false
 ---
 
-**[Yuanhong Zeng](https://danny-zyh.github.io/)**, **[Anushri Dixit](https://www.anushridixit.com/)**
+**[Yuanhong Zeng](https://danny-zyh.github.io/)**, **[Anushri Dixit]({{ '/people/anushri_dixit/' | relative_url }})**
 
 *University of California, Los Angeles*
 
