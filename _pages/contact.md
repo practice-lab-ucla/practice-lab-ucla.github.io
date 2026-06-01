@@ -18,4 +18,4 @@ I am actively hiring talented PhD students. If you are interested in joining the
 
 ## Prospective master and undergraduate students
 
-If you are an existing UCLA undergrad or masters student interested in working with me, please fillout this [form](https://forms.gle/HNJMfv4SKtdMLJ2G9). We will reach out to you if we have a project that is a good fit with your skills.
+If you are an existing UCLA undergrad or masters student interested in working with me, please fillout this [google survey](https://forms.gle/HNJMfv4SKtdMLJ2G9). We will reach out to you if we have a project that is a good fit with your skills.
