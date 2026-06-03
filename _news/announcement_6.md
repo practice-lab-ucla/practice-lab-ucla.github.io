@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Debajyoti]({% link _people/debajyoti_chakrabarti.md %})'s completed his Masters in [Aerospace Engineering](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/), congrats Deb!
+[Debajyoti]({% link _people/debajyoti_chakrabarti.md %}) completed his Masters in [Aerospace Engineering](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/), congrats Deb!
