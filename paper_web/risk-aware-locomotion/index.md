@@ -103,9 +103,9 @@ Cumulative probability of selecting each policy in one ramp experiment. Selectio
 
 ```bibtex
 @article{zeng2025risk,
-  author  = {Zeng, Yuanhong and Dixit, Anushri},
-  title   = {Risk-Aware Reinforcement Learning with Bandit-Based Adaptation for Quadrupedal Locomotion},
-  journal = {CoRR},
-  year    = {2025},
+  title={Risk-Aware Reinforcement Learning with Bandit-Based Adaptation for Quadrupedal Locomotion},
+  author={Zeng, Yuanhong and Dixit, Anushri},
+  journal={2026 IEEE International Conference in Robotics and Automation (ICRA)},
+  year={2026},
 }
 ```
