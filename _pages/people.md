@@ -5,7 +5,7 @@ permalink: /people/
 # description: A growing collection of your cool people.
 nav: true
 nav_order: 3
-display_categories: [Professor, Graduate student, Undergraduate student, Robot, Alumni]
+display_categories: [ , Graduate students, Undergraduate students, Robots, Alumni]
 horizontal: false
 ---
 
