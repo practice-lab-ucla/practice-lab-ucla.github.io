@@ -14,8 +14,8 @@ We appreciate your interest! Due to high volume of emails, we may not respond to
 
 ## Prospective PhD students
 
-I am actively hiring talented PhD students. If you are interested in joining the group, please apply to the [UCLA Mechanical & Aerospace Engineering PhD program](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/) and indicate your interest in working with me in the application. I am looking for students who are passionate about robotics and control, especially in extreme and uncertain environments.
+We are actively hiring talented PhD students. If you are interested in joining the group, please apply to the [UCLA Mechanical & Aerospace Engineering PhD program](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/) and indicate your interest in working with the group in the application. We are looking for students who are passionate about robotics and control, especially in extreme and uncertain environments.
 
 ## Prospective master and undergraduate students
 
-If you are an existing UCLA undergrad or masters student interested in working with me, please fillout this [google survey](https://forms.gle/HNJMfv4SKtdMLJ2G9). We will reach out to you if we have a project that is a good fit with your skills.
+If you are an existing UCLA undergrad or masters student interested in working with us, please fill out this [google survey](https://forms.gle/HNJMfv4SKtdMLJ2G9). We will reach out to you if we have a project that is a good fit with your skills.
