@@ -4,7 +4,7 @@ title: Abigail Brooks
 description: Mechanical Engineering
 img: assets/img/people/abby_brooks.jpg
 importance: 4
-category: Undergraduate student
+category: Undergraduate students
 
 profiles:
   - align: right
