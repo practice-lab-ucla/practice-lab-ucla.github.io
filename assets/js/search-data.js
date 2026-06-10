@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "people-jacob-pham",
           title: 'Jacob Pham',
-          description: "Undergraduate student in Mechanical Engineering",
+          description: "Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/Jacob_Pham/";
             },},{id: "people-lucas-schweighofer",
