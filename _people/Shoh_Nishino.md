@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title: Shoh Nishino
-description: Undergraduate student in Mechanical Engineering
+description: Mechanical Engineering
 img: assets/img/people/Shoh_Nishino.jpeg
 importance: 3
 category: Undergraduate student
