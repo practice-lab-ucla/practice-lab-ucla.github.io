@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title: Sanjit Sarda
-description: Undergraduate student in Electrical and Computer Engineering
+description: Electrical and Computer Engineering
 img: assets/img/people/sanjit.jpg
 importance: 1
 category: Undergraduate student
