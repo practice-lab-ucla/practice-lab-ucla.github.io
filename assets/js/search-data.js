@@ -423,12 +423,12 @@ ninja.data = [{
               window.location.href = "/people/Jacob_Pham/";
             },},{id: "people-lucas-schweighofer",
           title: 'Lucas Schweighofer',
-          description: "Undergraduate student in Mechanical Engineering",
+          description: "Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/Lucas_Schweighofer/";
             },},{id: "people-sanjit-sarda",
           title: 'Sanjit Sarda',
-          description: "Undergraduate student in Electrical and Computer Engineering",
+          description: "Electrical and Computer Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/Sanjit_Sarda/";
             },},{id: "people-shoh-nishino",
