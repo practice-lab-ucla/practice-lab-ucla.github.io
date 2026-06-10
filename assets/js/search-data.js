@@ -443,7 +443,7 @@ ninja.data = [{
               window.location.href = "/people/abby_brooks/";
             },},{id: "people-allen-emmanuel-binney",
           title: 'Allen Emmanuel Binney',
-          description: "Lab intern (summer 2025)",
+          description: "Visiting undergraduate researcher (summer 2025)",
           section: "People",handler: () => {
               window.location.href = "/people/allen_emmanuel_binny/";
             },},{id: "people-anushri-dixit",
