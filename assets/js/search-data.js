@@ -438,7 +438,7 @@ ninja.data = [{
               window.location.href = "/people/Shoh_Nishino/";
             },},{id: "people-abigail-brooks",
           title: 'Abigail Brooks',
-          description: "Undergraduate student in Mechanical Engineering",
+          description: "Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/abby_brooks/";
             },},{id: "people-allen-emmanuel-binney",
