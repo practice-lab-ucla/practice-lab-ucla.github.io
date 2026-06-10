@@ -4,7 +4,7 @@ title: Lucas Schweighofer
 description: Mechanical Engineering
 img: assets/img/people/Lucas_Schweighofer.jpg
 importance: 4
-category: Undergraduate student
+category: Undergraduate students
 
 profiles:
   - align: right
