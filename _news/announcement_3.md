@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yuanhong's [new paper on risk aware RL](https://arxiv.org/pdf/2510.14338) got accepted by [ICRA 2026](https://2026.ieee-icra.org) see you in Vienna!
+Yuanhong's [new paper on risk aware RL](https://arxiv.org/pdf/2510.14338) got accepted by [ICRA 2026](https://2026.ieee-icra.org). See you in Vienna!
