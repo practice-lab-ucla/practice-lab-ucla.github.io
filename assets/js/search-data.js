@@ -405,7 +405,7 @@ ninja.data = [{
           title: 'Allen’s new work on iterative conformal prediction is available on Arxiv!',
           description: "",
           section: "News",},{id: "news-yuanhong-s-new-paper-on-risk-aware-rl-got-accepted-by-icra-2026-see-you-in-vienna",
-          title: 'Yuanhong’s new paper on risk aware RL got accepted by ICRA 2026 see...',
+          title: 'Yuanhong’s new paper on risk aware RL got accepted by ICRA 2026. See...',
           description: "",
           section: "News",},{id: "news-qizhao-chen-will-join-fieldai-as-a-summer-intern-for-summer-2026",
           title: 'Qizhao Chen will join FieldAI as a summer intern for Summer 2026.',
