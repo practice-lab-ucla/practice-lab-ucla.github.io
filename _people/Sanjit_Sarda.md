@@ -4,7 +4,7 @@ title: Sanjit Sarda
 description: Electrical and Computer Engineering
 img: assets/img/people/sanjit.jpg
 importance: 1
-category: Undergraduate student
+category: Undergraduate students
 
 profiles:
   - align: right
