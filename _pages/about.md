@@ -8,6 +8,7 @@ permalink: /
 
 gallery:
   - /assets/img/meeting_1.jpg
+  - /assets/img/ALF_Samueli-1486.jpg
   - /assets/img/subterrain_robot.png
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
