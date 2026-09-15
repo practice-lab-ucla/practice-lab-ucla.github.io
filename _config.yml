@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 logo: "lab_logo.png"
-title: PRACTICE Lab | UCLA # the website title (if blank, full name will be used instead)
-first_name: Anushri
+title:  # the website title (if blank, full name will be used instead)
+# first_name: Anushri
 # middle_name: R.
-last_name: Dixit
+# last_name: Dixit
 contact_note: > # the ">" symbol means to ignore newlines until "contact_note:"
   Research Lab at UCLA
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
