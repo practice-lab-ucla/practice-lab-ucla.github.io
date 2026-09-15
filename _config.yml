@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 logo: "lab_logo.png"
-title: blank # the website title (if blank, full name will be used instead)
-# first_name: You
+title: PRACTICE Lab | UCLA # the website title (if blank, full name will be used instead)
+first_name: Anushri
 # middle_name: R.
-# last_name: Name
+last_name: Dixit
 contact_note: > # the ">" symbol means to ignore newlines until "contact_note:"
   Research Lab at UCLA
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PRACTICE Lab at UCLA MAE department led by Prof Anushri Dixit.
+  Probabilistic Robotics and Control Lab in the UCLA MAE department led by Anushri Dixit.
 footer_text: >
 keywords: robotics, safety, control, research lab # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
