@@ -7,26 +7,27 @@ importance: 2
 category: Graduate students
 # giscus_comments: true
 
-
 profiles:
   - align: right
     image: people/deb.jpeg
     content: about_debajyoti.md
     image_circular: false # crops the image to make it circular
-    
+    more_info: >
+      <p>debjyoti AT ucla DOT edu</p>
+
     # these are the icon links displayed in personal profile
     linkedin: https://www.linkedin.com/in/debajyoti-chakrabarti/
     google_scholar: https://scholar.google.com/citations?user=LdqQbbIAAAAJ&hl=en
     github: https://github.com/debajyotichakrabarti
     cv: /assets/pdf/Debajyoti_Resume.pdf
+    website: https://debajyotichakrabarti.github.io/
 
 # these are the icon displayed in personal page
 linkedin: https://www.linkedin.com/in/debajyoti-chakrabarti/
 google_scholar: https://scholar.google.com/citations?user=LdqQbbIAAAAJ&hl=en
 github: https://github.com/debajyotichakrabarti
 cv: /assets/pdf/Debajyoti_Resume.pdf
+website: https://debajyotichakrabarti.github.io/
 
 related_publications: false
 ---
-
-
