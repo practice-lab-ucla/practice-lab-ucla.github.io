@@ -416,7 +416,7 @@ ninja.data = [{
           section: "News",},{id: "news-debajyoti-completed-his-masters-in-aerospace-engineering-congrats-deb",
           title: 'Debajyoti completed his Masters in Aerospace Engineering, congrats Deb!',
           description: "",
-          section: "News",},{id: "news-debajyoti-s-new-paper-on-incentive-aware-motion-planning-has-been-accepted-to-ieee-cdc-2026",
+          section: "News",},{id: "news-debajyoti-s-new-paper-on-incentive-aware-motion-planning-has-been-accepted-to-ieee-cdc-2026-see-you-in-hawaiʻi-mahalo",
           title: 'Debajyoti’s new paper on incentive-aware motion planning has been accepted to IEEE CDC...',
           description: "",
           section: "News",},{id: "people-jacob-pham",
