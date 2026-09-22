@@ -186,3 +186,10 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+@media (min-width: 576px) {
+  .publications img.preview[src*="paying-for-space/paying-for-space.png"] {
+    height: 72px;
+    object-fit: fill;
+  }
+}
