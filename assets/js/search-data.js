@@ -436,7 +436,7 @@ ninja.data = [{
               window.location.href = "/people/Sanjit_Sarda/";
             },},{id: "people-shoh-nishino",
           title: 'Shoh Nishino',
-          description: "Mechanical Engineering",
+          description: "Master&#39;s Student in Mechanical Engineering",
           section: "People",handler: () => {
               window.location.href = "/people/Shoh_Nishino/";
             },},{id: "people-abigail-brooks",
