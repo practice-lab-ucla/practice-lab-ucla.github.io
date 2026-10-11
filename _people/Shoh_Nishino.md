@@ -4,7 +4,7 @@ title: Shoh Nishino
 description: Mechanical Engineering
 img: assets/img/people/Shoh_Nishino.jpeg
 importance: 3
-category: Undergraduate students
+category: Graduate students
 
 profiles:
   - align: right
