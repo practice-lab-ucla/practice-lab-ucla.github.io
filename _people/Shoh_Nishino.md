@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title: Shoh Nishino
-description: Master's Student in Mechanical Engineering
+description: MS student in Mechanical Engineering
 img: assets/img/people/Shoh_Nishino.jpeg
 importance: 3
 category: Graduate students
