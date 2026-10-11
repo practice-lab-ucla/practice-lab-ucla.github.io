@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title: Shoh Nishino
-description: Mechanical Engineering
+description: Master's Student in Mechanical Engineering
 img: assets/img/people/Shoh_Nishino.jpeg
 importance: 3
 category: Graduate students
@@ -16,10 +16,12 @@ profiles:
     
     # these are the icon links displayed in personal profile
     linkedin: https://www.linkedin.com/in/shoh-nishino/
-
+    cv: /assets/pdf/Shoh_Nishino_Resume.pdf
 
 # these are the icon displayed in personal page
 linkedin: https://www.linkedin.com/in/shoh-nishino/
+
+cv: /assets/pdf/Shoh_Nishino_Resume.pdf
 
 
 related_publications: false
